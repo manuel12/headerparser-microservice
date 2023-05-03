@@ -25,5 +25,8 @@
     "node",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "user-agents": "^1.0.1368"
+  }
 }
